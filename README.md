@@ -8,7 +8,7 @@ The dataset is a log of item purchase transactions with an associated customer i
 dataset is rolled-up into customer-level features. The daatset is also aggregated into item-level features showing customer 
 purchases of the top 20 items by popularity within teh dataset.
 
-Customer_Segmentation_Workflow_2_Analysis.ipynb = This is part 2 of a series and shows a Principla Component Analysis and a K-Means 
+Customer_Segmentation_Workflow_2_Analysis.ipynb -  This is part 2 of a series and shows a Principla Component Analysis and a K-Means 
 clustering analysis of the dataset features engineered in the first notebook.
 
 
